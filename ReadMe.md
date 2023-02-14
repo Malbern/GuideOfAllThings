@@ -6,3 +6,5 @@ Randomness and projects to help the time go by. Let’s be positive and influenc
 Helping others is what this group is about. To maintain integrity which will keep rolling towards that eternal posture.
 
 This is where it begins, being open(source).
+
+Discord. [Guide Of All Things](https://discord.gg/HXTXRrqjuN)
