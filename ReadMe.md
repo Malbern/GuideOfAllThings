@@ -7,4 +7,8 @@ Helping others is what this group is about. To maintain integrity which will kee
 
 This is where it begins, being open(source).
 
-Discord. [Guide Of All Things](https://discord.gg/HXTXRrqjuN)
+Discord - [Guide Of All Things](https://discord.gg/HXTXRrqjuN)
+
+## Focus
+
+Safety, Python, Cybersecurity
