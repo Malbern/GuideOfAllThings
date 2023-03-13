@@ -1,6 +1,6 @@
-#Header
-##Header 2
-###Header 3
+# Header
+## Header 2
+### Header 3
 *Italize* **Bold** ***Both***
 _Italize_ __Bold__ ___Both___
 
