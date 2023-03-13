@@ -20,6 +20,12 @@ First Header  | Second Header | Third Header |
 Cell		  |   *Cell*	  |	  Cell	|
 Cell		  |   **Cell**	|	  Cell	|
 
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
+
 [Reference Link][1]
 
 Reference this.[^footnote]
