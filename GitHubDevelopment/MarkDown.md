@@ -1,4 +1,6 @@
-# Header
+<details id=0 open> <summary><h2>Header</h2></summary>
+Spam.
+</details>
 ## Header 2
 ### Header 3
 *Italize* **Bold** ***Both***
