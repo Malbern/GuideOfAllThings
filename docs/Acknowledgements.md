@@ -11,3 +11,6 @@ CloudFlare
 Wikipedia
 Mozilla
 https://www.howtogeek.com
+"Replit" App
+"Pyto" App
+"CodeSnack IDE" App
