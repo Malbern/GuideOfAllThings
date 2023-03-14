@@ -2,7 +2,10 @@
 
 Discord - [Guide Of All Things](https://discord.gg/HXTXRrqjuN)
 
-##Tour
+## About
+Just learning and trying to make useful stuff.
+
+## Tour
 Still organizing stuff.
 
 If you look within the repository it should be pretty neat at least.
