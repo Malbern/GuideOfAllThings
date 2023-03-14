@@ -1,14 +1,14 @@
 ![GuideOfAllThings](55D8F448-CA95-4E93-AB23-23D5CB306CAB.jpeg)
-A new source for whatever may need it. Freedom, privacy, and fundamental rights for all.
-
-Randomness and projects to help the time go by. Let’s be positive and influence the world to keep on going on, don’t lose that drive.
-
-Helping others is what this group is about. To maintain integrity which will keep rolling towards that eternal posture.
-
-This is where it begins, being open(source).
 
 Discord - [Guide Of All Things](https://discord.gg/HXTXRrqjuN)
 
+##Tour
+Still organizing stuff.
+
+If you look within the repository it should be pretty neat at least.
+Working on having ReadMes ready, also working on the discussions, wiki, etc.
+
+
 ## Focus
 
-Safety, Python, Cybersecurity
+Safety, Python, Cyber Security, Web, Development, Hacking, Etc
