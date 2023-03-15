@@ -1,3 +1,11 @@
+## Info
+
+Here is where I’ve been getting information from, at least I think. Trying to keep this updated and will expand upon it eventually.
+
+If you believe that some source came from you or if you wish to not be on this list, please email me. [Email](RollingBytes@icloud.com)
+
+## List
+
 https://www.realpython.com
 https://www.python.org
 https://www.w3schools.com/python/
