@@ -2,7 +2,7 @@
 
 Discord - [Guide Of All Things](https://discord.gg/HXTXRrqjuN)
 
-## About
+ht
 Just learning and trying to make useful stuff.
 
 ## Tour

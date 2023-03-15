@@ -61,3 +61,10 @@ Underline
 ---
 
 > Quote.
+
+#(Fuzzy) Search
+A way of searching that indexes search terms in a way that they don’t have to be together, such as SSS. It would also try finding things that are aligned in such a way as 
+
+**S**ituation **S**uggestion **S**olution
+
+That way if you perhaps use a syntax type of language that has names in specific orders or even know the common definitions in any other language, that they could be found a lot more easily.
