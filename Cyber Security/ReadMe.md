@@ -1,0 +1,1 @@
+Oddity to me is what I call most, if not all abnormalities, weird things, and what’s just odd.
