@@ -2,8 +2,24 @@
 
 Discord - [Guide Of All Things](https://discord.gg/HXTXRrqjuN)
 
-ht
-Just learning and trying to make useful stuff.
+<details><summary><h1>Table Of Contents</h1></summary>
+
+# Cyber Security
+
+# Connectivity
+## Communications
+### Wired
+### Wireless
+## Networking
+
+# Programming
+## Python
+## Web Development
+### HTML
+### CSS
+### JavaScript
+
+</details>
 
 ## Tour
 Still organizing stuff.
