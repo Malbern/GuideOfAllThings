@@ -140,10 +140,30 @@ Cell	  |   *Cell*	  |	  Cell	|
 Cell  |   **Cell**	|	  Cell	|
 
 | Rank | THING-TO-RANK |
-|——:   |—————|
-|     1|               |
-|     2|               |
+|——:|—————|
+|     1|Python|
+|     2|Web Development|
 |     3|               |
+
+| First Header  | Second Header |
+| -———— | -———— |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+| Command | Description |
+| — | — |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven’t been staged |
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :—         |     :—:      |          —: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+| Name     | Character |
+| —      | —       |
+| Backtick | `         |
+| Pipe     | \|        |
 
 ***
 ## Spacers
@@ -169,8 +189,6 @@ A way to present code so that it’s a lot more visible.
 >Other code block.
 
 >Skipped line.
-
-> Or a quote.
 
 * ‘ Does not work. It must be a `, a word(s) with a backtick on each side would identify 1 word or multiple.
 
@@ -236,3 +254,16 @@ _world_.
 
 |test|
 |:———|
+
+* List
+    * Is
+* *    Here
+  * b
+
+A quote goes like this.
+
+—-
+> Quote
+- Test
+
+<!— Comment goes in here. —>
