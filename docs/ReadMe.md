@@ -16,9 +16,11 @@
 
 3. [Code Of Conduct](docs/CodeOfConduct.md) [^3]
 
-4. [License](docs/License) [^4]
+4. [Discussions](https://github.com/Malbern/GuideOfAllThings/discussions) [^4]
 
-5. [Sources](/docs/Sources.md) [^5]
+4. [License](docs/License) [^5]
+
+5. [Sources](/docs/Sources.md) [^6]
 
 ***
 <details id=2 open><summary><h2>Test</h2></summmary>
@@ -29,6 +31,8 @@
 
 [^3]: How to act. Simple though, be decent.
 
-[^4]: A license that hopefully is an inspiration.
+[^4]: Come discuss! Plenty of things to answer as well.
 
-[^5]: More knowledge and of course sources!
+[^5]: A license that hopefully is an inspiration.
+
+[^6]: More knowledge and of course sources!
