@@ -1,5 +1,9 @@
-# Headers
-A way to have the section folded and unfolded.
+# About
+A cheat sheet to make Markdown and writing on GitHub easier.
+
+***
+<details><summary><h1>Headers</h1></summary>
+A way to have the section folded and unfolded, then just normal headers.
 
     <details id=0 open> <summary><h1>Header</h1></summary>
     Spam.
@@ -9,7 +13,12 @@ A way to have the section folded and unfolded.
 Spam.
 </details>
 
-Headers.
+    # Header 1
+    ## Header 2
+    ### Header 3
+    #### Header 4
+    ##### Header 5
+    ###### Header 6
 
 # Header 1
 ## Header 2
@@ -17,10 +26,11 @@ Headers.
 #### Header 4
 ##### Header 5
 ###### Header 6
+</details>
 
 ***
-
-2 ways to format text.
+<details open><summary><h1>Text Formatting</h1></summary>
+Change the way text looks and how it displays.
 
     *Italize* **Bold** ***Both***
     
@@ -29,77 +39,153 @@ Headers.
 *Italize* **Bold** ***Both***
 
 _Italize_ __Bold__ ___Both___
+</details>
 
 ***
+<details open><summary><h2>Links</h2></summary>
+Linking to a URL or image.
 
-An indentation is 4 spaces.
+    [Link](https://www.github.com)
+    
+    <p>This is an <a href=“http://example.com/“>example link</a>.</p>
+    
+    This is an [example link](http://example.com/ “With a Title”).
+    
+    ![The Sun](/Development/Web/Templates/Sun Face.png)
+    
+    [Reference Link][1] is the same link as [Reference Link][2]
 
-	Code
-	block.
-
->Other code block.
-
->Skipped line.
-
-***
-
-Linking things.
+    [1]: https://example.com
+    [2]: https://example.com
 
 [Link](https://www.github.com)
 
-![Picture](/Development/Web/Templates/Sun Face.png)
+<p>This is an <a href=“https://example.com/“>example link</a>.</p>
+
+This is an [example link](https://example.com/ “With a Title”).
+
+![The Sun](/Development/Web/Templates/Sun Face.png)
+
+[Reference Link][1] is the same link as [Reference Link][2]
+
+[1]: https://example.com
+[2]: https://example.com
+</details>
 
 ***
+<details open><summary><h1>Organization</h1></summary>
+Get the info all in order.
 
-# Tables
+## Lists
+Different types and layouts of lists.
+
+### Ordered List
+Numbers the list, what comes after 1 doesn’t matter.
+
+    1.
+    *
+    -
+    +
+ 
+1. 1
+* 2
+- 3
++ 4   
+
+***
+### Unordered List
+Just have dots making up the list.
+
+    *
+    -
+    +
+    * [x]
+    - [ ]
+    + [ ] 
+    
+* 1
+- 2
+* [x] Checked
+- [ ] Unchecked
++ [ ] Unchecked
+
+***
+### Ordered & Unordered List
+A combined type of list that has numbers and dots.
+
+<ol>
+<li>Candy.</li>
+<ul>
+<li>Gum.</li>
+<li>Booze.</li>
+</ul></ol>
+
+***
+## Tables
 
 First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Cell		  |   *Cell*	  |	  Cell	|
-Cell		  |   **Cell**	|	  Cell	|
-
+ ———— | :————: | ————: |
+Cell	  |   *Cell*	  |	  Cell	|
+Cell  |   **Cell**	|	  Cell	|
 
 | Rank | THING-TO-RANK |
-|-----:|---------------|
+|——:   |—————|
 |     1|               |
 |     2|               |
 |     3|               |
 
 ***
+## Spacers
 
-[Reference Link][1]
+    ***
+*** 
 
-Reference this.[^footnote]
+    - - - -
+- - - -
+</details>
 
-[1]: http://example.com
+***
+<details open><summary><h1>Code Blocks</h1></summary>
+A way to present code so that it’s a lot more visible.
 
-[^footnote]: Always goes to bottom.
+* An indentation is 4 spaces, it makes a code block.
 
-* Bullets[^2]
+	Code
+	block.
 
-[^2]:Second.
+* Use >For code blocks. Only lines with text need >before the code.
 
-```
+>Other code block.
+
+>Skipped line.
+
+* ‘ Does not work. It must be a `, a word(s) with a backtick on each side would identify 1 word or multiple.
+
 `<code>` spans are delimited
 by backticks.
+  
+* ``` before and and after the text would identify the whole thing.
 
-You can include literal backticks
-like  this.
 ```
-
-————
+You can include literal backticks
+like this.
+```
+</details>
 
 ***
 
-- - - - 
+Reference this.[^footnote]
+
+[^footnote]: Always goes to bottom.
+
+Testing[^2]
+
+[^2]:Second.
 
 <span>
 
 Underline
 ==
-
-- [x] List
-- [ ] List Too
 
 ---
 

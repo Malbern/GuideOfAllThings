@@ -6,74 +6,33 @@
 
 <details id=1 open><summary><h1>Table Of Contents</h1></summary>
 
-<details id=2 open><summary><h2>Info</h2><summmary>
+<details id=2 open><summary><h2>Info</h2></summmary>
 
-What this place is about.
-
-[About](/docs/About.md)
+1. [About](/docs/About.md)[^1]
 
 Places that helped obtain knowledge.
 
-[Acknowledgements](docs/Acknowledgements.md)
-
+2. [Acknowledgements](docs/Acknowledgements.md)[^2]
 
 How to act. Simple though, be decent.
 
-[Code Of Conduct](docs/CodeOfConduct.md)
+3. [Code Of Conduct](docs/CodeOfConduct.md) [^3]
 
 Our license, which is a goal for all.
 
-[License](docs/License)
+4. [License](docs/License) [^4]
 
 Information about numerous things here.
 
-[Sources](/docs/Sources.md)
-</details>
+5. [Sources](/docs/Sources.md) [^5]
 
-[<h1>Cyber Security</h1>](/Cyber Security/ReadMe.md)
 
-# Connectivity
+[^1]: What this place is about.
 
-## Networking
+[^2]:
 
-[Sections](/Networking/ReadMe.md)
+[^3]:
 
-## Communications
+[^4]:
 
-### Wired
-
-### Wireless
-
-## Electrical
-
-[Sections](/Electrical/ReadMe.md)
-
-## Networking
-
-[Sections](/Networking/ReadMe.md)
-
-[<h1>Development</1>](/Development/ReadMe.md)
-
-[<h2>Python</h2>](/Development/Python/ReadMe.md)
-
-## Web Development
-
-[Sections](/Development/Web/ReadMe.md)
-
-### HTML
-
-### CSS
-
-### JavaScript
-
-## Bash
-
-[Sections](/Development/Bash/ReadMe.md)
-
-# Hardware
-
-[Sections](/Hardware/ReadMe.md)
-
-## Software
-
-</details>
+[^5]:

@@ -88,7 +88,7 @@ Used with figcaption to implement captions under media.
 ##htmliframe
 <iframe width=“500” height=“500” src=“6.22.html” />
 ##htmlimage
-<img src=“%fill:url%” alt=“%fill:image description%” width=“%fill:width%” height=“%fill:height%” border=“%fill:border%” align=“%fill:alignment%” />
+<img src=“url” alt=image description=”description” width=“px” height=“px” border=“px” align=“px”/>
 ##htmljslink
 <script src=“%|” type=“text/javascript” language=“javascript”></script>
 ##htmllabel
