@@ -139,8 +139,14 @@ First Header  | Second Header | Third Header |
 Cell	  |   *Cell*	  |	  Cell	|
 Cell  |   **Cell**	|	  Cell	|
 
+    | Rank | THING-TO-RANK |
+    |-----:|---------------|
+    |     1|Python|
+    |     2|Web Development|
+    |     3|               |
+
 | Rank | THING-TO-RANK |
-|——:|—————|
+|-----:|---------------|
 |     1|Python|
 |     2|Web Development|
 |     3|               |
@@ -262,8 +268,10 @@ _world_.
 
 A quote goes like this.
 
-—-
+---
 > Quote
 - Test
+
+    <!—Comment—> 
 
 <!— Comment goes in here. —>
