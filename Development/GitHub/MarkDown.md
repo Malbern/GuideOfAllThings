@@ -89,9 +89,9 @@ Numbers the list, what comes after 1 doesn’t matter.
     -
     +
  
-1. 1
-* 2
-- 3
+1) 1
+ * 2
+  - 3
 + 4
 
 ***
@@ -108,8 +108,8 @@ Just have dots making up the list.
 * 1
 - - Outer
 * [x] Checked
-- [ ] Unchecked
-+ [ ] Unchecked
+ * [ ] Unchecked
+  * [ ] Unchecked
 
 ***
 ### Ordered & Unordered List
@@ -121,6 +121,15 @@ A combined type of list that has numbers and dots.
 <li>Gum.</li>
 <li>Booze.</li>
 </ul></ol>
+
+<ol>
+<li>A
+<ol>
+<li>B
+</ol>
+</li>
+</ol>
+</li>
 
 ***
 ## Tables
