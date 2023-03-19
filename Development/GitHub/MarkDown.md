@@ -1,30 +1,71 @@
-<details id=0 open> <summary><h2>Header</h2></summary>
+# Headers
+A way to have the section folded and unfolded.
+
+    <details id=0 open> <summary><h1>Header</h1></summary>
+    Spam.
+    </details>
+
+<details id=0 open> <summary><h1>Header</h1></summary>
 Spam.
 </details>
+
+Headers.
+
+# Header 1
 ## Header 2
 ### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+***
+
+2 ways to format text.
+
+    *Italize* **Bold** ***Both***
+    
+    _Italize_ __Bold__ ___Both___
+
 *Italize* **Bold** ***Both***
+
 _Italize_ __Bold__ ___Both___
+
+***
+
+An indentation is 4 spaces.
 
 	Code
 	block.
 
->Other
-code
-block.
+>Other code block.
 
-[Link](google.com)
-![Picture](http://example.com/image.png)
+>Skipped line.
+
+***
+
+Linking things.
+
+[Link](https://www.github.com)
+
+![Picture](/Development/Web/Templates/Sun Face.png)
+
+***
+
+# Tables
+
 First Header  | Second Header | Third Header |
  ------------ | :-----------: | -----------: |
 Cell		  |   *Cell*	  |	  Cell	|
 Cell		  |   **Cell**	|	  Cell	|
+
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1|               |
 |     2|               |
 |     3|               |
+
+***
 
 [Reference Link][1]
 
@@ -47,7 +88,9 @@ like  this.
 ```
 
 ————
+
 ***
+
 - - - - 
 
 <span>

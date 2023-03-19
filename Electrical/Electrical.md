@@ -1,15 +1,15 @@
-#Electrical Current
-##Precaution
+# Precaution
 WARNING - Most, if not all (Might as well be better safe than sorry.) things that has anything to do with electricity can and will hurt and/or kill you if you give it a chance. Know your surroundings and know your safety. Always properly ground yourself, discharge anything that holds any type of energy, make sure there’s nothing running through, and lock it out.
 
-##Resistance
-###Precaution
+## Resistance
+
+### Precaution
 WARNING - Never measure resistance on a circuit with voltage running through it.
 
-Resistance Measurements
-
+### Resistance Measurements
 
 ##Alternating Current(AC)
+
 ###Info
 Alternating current (AC) is an electric current which periodically reverses direction and changes its magnitude continuously with time in contrast to direct current (DC) which flows only in one direction.
 
@@ -30,21 +30,22 @@ The sinusoidal type is not varied by the main components, including L, R, and C.
 
 Electronic devices and equipment such as radios, lamps, motors, televisions, and other home appliances directly use AC power for their operation. Meanwhile, DC power is commonly used in consumer electronics.
 
-###AC Power Source
+### AC Power Source
 An AC power source supplies an alternating electrical current that helps power or test a separate piece of equipment by simulating electrical grid interruptions, harmonics, surges, or other events that could cause a device under test (DUT) to malfunction.
 
-###AC Supply
+### AC Supply
 If a supply has a frequency of 50Hz (50 hertz), that means it changes direction and back again 50 times a second.
 
 AC Voltage Measurements
 
-###AC Load
+### AC Load
 The AC load can be capacitive, inductive or resistive but the load on DC is always resistive.
 
 
 
-##Direct Current(DC)
-###Info
+## Direct Current(DC)
+
+### Info
 In direct current, the voltage is always constant, and the electricity flows in a certain direction.
 
 DC current is typical of batteries that power flashlights and other home appliances and is also used in some industrial applications.
