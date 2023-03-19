@@ -2,7 +2,7 @@
 A cheat sheet to make Markdown and writing on GitHub easier.
 
 ***
-<details><summary><h1>Headers</h1></summary>
+<details open><summary><h1>Headers</h1></summary>
 A way to have the section folded and unfolded, then just normal headers.
 
     <details id=0 open> <summary><h1>Header</h1></summary>
@@ -72,6 +72,8 @@ This is an [example link](https://example.com/ “With a Title”).
 [2]: https://example.com
 </details>
 
+<img src=“/Development/Web/Templates/Sun Face.png” alt=“alt text” title=“Title” />
+
 ***
 <details open><summary><h1>Organization</h1></summary>
 Get the info all in order.
@@ -90,21 +92,21 @@ Numbers the list, what comes after 1 doesn’t matter.
 1. 1
 * 2
 - 3
-+ 4   
++ 4
 
 ***
 ### Unordered List
 Just have dots making up the list.
 
     *
-    -
+    - -
     +
     * [x]
     - [ ]
     + [ ] 
     
 * 1
-- 2
+- - Outer
 * [x] Checked
 - [ ] Unchecked
 + [ ] Unchecked
@@ -159,6 +161,8 @@ A way to present code so that it’s a lot more visible.
 
 >Skipped line.
 
+> Or a quote.
+
 * ‘ Does not work. It must be a `, a word(s) with a backtick on each side would identify 1 word or multiple.
 
 `<code>` spans are delimited
@@ -170,30 +174,56 @@ by backticks.
 You can include literal backticks
 like this.
 ```
+
+<blockquote>
+<p>Yes</p>
+    <p>Test.</p>
+</blockquote> 
 </details>
 
 ***
+<details open><summary><h1>References</h1></summary>
 
-Reference this.[^footnote]
+Reference this. [^1]
 
-[^footnote]: Always goes to bottom.
+Testing [^2]
 
-Testing[^2]
+[^1]: Always goes to bottom.
 
-[^2]:Second.
+[^2]: Second.
 
-<span>
+</details>
 
-Underline
-==
+***
+details open><summary><h1>Extra</h1></summary>
 
----
+Experiment with lists.
 
-> Quote.
+- A
+- - B
+- * + C
+ - D
+ - 1. E
+  * F
 
-#(Fuzzy) Search
-A way of searching that indexes search terms in a way that they don’t have to be together, such as SSS. It would also try finding things that are aligned in such a way as 
+~~~
+Code Fence
+~~~
 
-**S**ituation **S**uggestion **S**olution
+```
+<
+ >.   Yeah 
+  -
+```
+Test
 
-That way if you perhaps use a syntax type of language that has names in specific orders or even know the common definitions in any other language, that they could be found a lot more easily.
+<table><tr><td>
+<pre>
+**Hello**,
+
+_world_.
+</pre>
+</td></tr></table>
+
+|test|
+|:———|

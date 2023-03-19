@@ -34,32 +34,14 @@ CodeSnack IDE
 
 [Rob Miles](https://www.robmiles.com)
 
-</details>
-
-<details id=0 open><summary><h2>Platforms</h2></summary>
-
-<details id=0 open><summary><h3>Apple</h3></summary>
-
-[The iPhone Wiki](https://www.theiphonewiki.com/wiki/Main_Page)
-
-[Apple Developer Library](https://developer.apple.com/library/archive/navigation/)
-
-[About Files and Directories](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010672)
-
-[Accessing Files And Directories](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/AccessingFilesandDirectories/AccessingFilesandDirectories.html#//apple_ref/doc/uid/TP40010672-CH3-SW5)
-
-[File System Basics](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemOverview/FileSystemOverview.html#//apple_ref/doc/uid/TP40010672-CH2-SW2)
-
-[File System Details](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemDetails/FileSystemDetails.html#//apple_ref/doc/uid/TP40010672-CH8-97329)
-
-</details>
-
-[CloudFlare](https://www.
+[CloudFlare](https://www.cloudflare.com)
 
 [Wikipedia](https//:www.wikipedia.com)
 
-Mozilla
+[Mozilla](https://www.mozilla.com)
 
-https://www.howtogeek.com
+[How To Geek](https://www.howtogeek.com)
+
+[OMZ Software](https://omz-software.com)
 
 </details>

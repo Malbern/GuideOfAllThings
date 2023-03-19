@@ -4,35 +4,31 @@
 
 ***
 
-<details id=1 open><summary><h1>Table Of Contents</h1></summary>
+<details id=0 open><summary><h1>Table Of Contents</h1></summary>
 
-<details id=2 open><summary><h2>Info</h2></summmary>
+<details id=1 open><summary><h2>Info</h2></summmary>
+
+**Details on each page is at the bottom of the page.**
 
 1. [About](/docs/About.md)[^1]
 
-Places that helped obtain knowledge.
-
 2. [Acknowledgements](docs/Acknowledgements.md)[^2]
-
-How to act. Simple though, be decent.
 
 3. [Code Of Conduct](docs/CodeOfConduct.md) [^3]
 
-Our license, which is a goal for all.
-
 4. [License](docs/License) [^4]
-
-Information about numerous things here.
 
 5. [Sources](/docs/Sources.md) [^5]
 
+***
+<details id=2 open><summary><h2>Test</h2></summmary>
 
-[^1]: What this place is about.
+[^1]: What this place is all about!
 
-[^2]:
+[^2]: Places that helped obtain knowledge.
 
-[^3]:
+[^3]: How to act. Simple though, be decent.
 
-[^4]:
+[^4]: A license that hopefully is an inspiration.
 
-[^5]:
+[^5]: More knowledge and of course sources!
