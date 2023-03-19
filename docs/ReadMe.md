@@ -4,35 +4,66 @@
 
 ***
 
-<details id=0 open><summary><h1>Table Of Contents</h1></summary>
+The site guide is at the bottom, details on each link are in the footnotes. (At the very bottom or click the number beside the topic.) WIP
 
-<details id=1 open><summary><h2>Info</h2></summmary>
+<details open><summary><h1>About</h1></summary>
 
-**Details on each page is at the bottom of the page.**
+A place to try making life better, providing information on things and more importantly, ways to accomplish tasks that have to do with these things.
 
-1. [About](/docs/About.md)[^1]
+Guide Of All Things is anything and everything, trying to gather information on all things! Instead of only presenting information, we are more focused on creating guides, examples, and ways to get things done.
 
-2. [Acknowledgements](docs/Acknowledgements.md)[^2]
+[Malbern](https://github.com/Malbern) is the organization to host this. We welcome all! Please check it out, it’s just a place trying to make things better.
+</details>
 
-3. [Code Of Conduct](docs/CodeOfConduct.md) [^3]
+<details><summary><h2>Things</h2></summary>
 
-4. [Discussions](https://github.com/Malbern/GuideOfAllThings/discussions) [^4]
+**Currently…**
+Python
+HTML
+CSS
+JavaScript
+Cyber Security
+Networking
+Electrical
+Hardware
+Software
 
-4. [License](docs/License) [^5]
+</details>
 
-5. [Sources](/docs/Sources.md) [^6]
+<details><summary><h2>Missions</h2></summary>
 
-***
-<details id=2 open><summary><h2>Test</h2></summmary>
+Creating guides.
 
-[^1]: What this place is all about!
+Figuring things out.
 
-[^2]: Places that helped obtain knowledge.
+Creating documentation.
 
-[^3]: How to act. Simple though, be decent.
+Organizing information.
 
-[^4]: Come discuss! Plenty of things to answer as well.
+<sub>Feel free to add your own programming languages, topics, and whatever else may not be here.</sub>
 
-[^5]: A license that hopefully is an inspiration.
+</details>
 
-[^6]: More knowledge and of course sources!
+<details open><summary><h3>List Of Things</h3></summary>
+
+1. [Organization & Documentation](/docs/Info.md) [^1]
+
+2. [Cyber Security](/CyberSecurity/ReadMe.md) [^2]
+
+3. [Connectivity](/Connectivity/ReadMe.md) [^3]
+
+4. [Development](/Development/ReadMe.md) [^4]
+
+5. [Wares](/Wares/ReadMe.md) [^5]
+
+</details>
+
+[^1]: Community documentation and basic info.
+
+[^2]: Info, oddities, etc.
+
+[^3]: Networking, communications, connections, etc.
+
+[^4]: Development, programming, etc.
+
+[^5]: Hardware and software related things.
