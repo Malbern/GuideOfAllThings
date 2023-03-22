@@ -2,15 +2,9 @@
 
 ![](55D8F448-CA95-4E93-AB23-23D5CB306CAB.jpeg)
 
-***
-
-The site guide is at the bottom, details on each link are in the footnotes. (At the very bottom or click the number beside the topic.) WIP
-
 <details open><summary><h1>About</h1></summary>
 
-A place to try making life better, providing information on things and more importantly, ways to accomplish tasks that have to do with these things.
-
-Guide Of All Things is anything and everything, trying to gather information on all things! Instead of only presenting information, we are more focused on creating guides, examples, and ways to get things done.
+Guide Of All Things is anything and everything, organizing info and putting things together is what we do. Guides are on the way.
 
 [Malbern](https://github.com/Malbern) is the organization to host this. We welcome all! Please check it out, it’s just a place trying to make things better.
 </details>
@@ -18,7 +12,9 @@ Guide Of All Things is anything and everything, trying to gather information on 
 <details><summary><h2>Things</h2></summary>
 
 **Currently…**
-Python
+*Programming Languages
+** Python
+* Web Development
 HTML
 CSS
 JavaScript
@@ -36,9 +32,9 @@ Creating guides.
 
 Figuring things out.
 
-Creating documentation.
-
 Organizing information.
+
+Creating documentation.
 
 <sub>Feel free to add your own programming languages, topics, and whatever else may not be here.</sub>
 
@@ -46,24 +42,28 @@ Organizing information.
 
 <details open><summary><h3>List Of Things</h3></summary>
 
-1. [Organization & Documentation](/docs/Info.md) [^1]
+1. [Documentation](/docs/Info.md) [^1]
 
-2. [Cyber Security](/CyberSecurity/ReadMe.md) [^2]
+2. [Development](/Development/ReadMe.md) [^2]
 
 3. [Connectivity](/Connectivity/ReadMe.md) [^3]
 
-4. [Development](/Development/ReadMe.md) [^4]
+4. [CyberSecurity](/CyberSecurity/ReadMe.md [^4]
 
-5. [Wares](/Wares/ReadMe.md) [^5]
+5. [Sources](/docs/Additional/Sources.md) [^5]
+
+6. [Wares](/Wares/ReadMe.md) [^6]
 
 </details>
 
 [^1]: Community documentation and basic info.
 
-[^2]: Info, oddities, etc.
+[^2]: If it has to do with code it will be here.
 
-[^3]: Networking, communications, connections, etc.
+[^3]: Networking, communications, connectivity, etc.
 
-[^4]: Development, programming, etc.
+[^4]: Info, oddities, etc.
 
-[^5]: Hardware and software related things.
+[^5]: To be organized additional topics.
+
+[^6]: Hardware and software related things.
