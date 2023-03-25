@@ -46,13 +46,13 @@ Creating documentation.
 
 2. [Development](/Development/ReadMe.md) [^2]
 
-3. [Connectivity](/Connectivity/ReadMe.md) [^3]
+3. [Information Technology](/Information Technology/ReadMe.md) [^3]
 
-4. [CyberSecurity](/CyberSecurity/ReadMe.md [^4]
+4. [Python](/docs/ReadMe.md) [^4]
 
 5. [Sources](/docs/Additional/Sources.md) [^5]
 
-6. [Wares](/Wares/ReadMe.md) [^6]
+6. []() [^6]
 
 </details>
 
