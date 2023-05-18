@@ -1,4 +1,15 @@
+# About
+A cheat sheet to make Markdown and writing on GitHub easier.
+
 <details open><summary><h1>Headers</h1></summary>
+
+In this first element, add the second word to have the content in details present itself unfolded.
+
+details open
+
+Summary determines where the collapse takes place.
+
+    <details><summary><h1>Header</h1></summary></details>
 
 Style your guides.
 

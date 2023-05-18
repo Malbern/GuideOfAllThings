@@ -1,5 +1,4 @@
-# About
-A cheat sheet to make Markdown and writing on GitHub easier.
+
 
 ***
 
