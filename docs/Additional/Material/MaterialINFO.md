@@ -1,0 +1,1 @@
+[GOAT](/docs/Additional/Material/GOAT.jpeg)
